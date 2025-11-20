@@ -1,0 +1,15 @@
+/* Exemplo de reset de CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-primary: rgb(255,255,255);
+}
+
+li {
+    display: inline;
+}
